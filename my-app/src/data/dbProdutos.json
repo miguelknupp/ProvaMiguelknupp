@@ -1,0 +1,11 @@
+{
+    "produtos": [
+        {
+            "id": "1",
+            "nome": "Teste",
+            "categoria": "Testar",
+            "preco": "1,99"
+            
+        }
+    ]
+}
