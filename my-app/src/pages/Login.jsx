@@ -7,7 +7,7 @@ import Form from 'react-bootstrap/Form';
 
 const Login = () => {
   return (
-    <div >
+    <div className={Styler.body}>
         <form action="">
 
         <FloatingLabel
